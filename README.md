@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Jay Sudani</h1>
+<h1 align="center">Hi 👋, I'm Jay Sudani</h1>
 <h3 align="center">🚀 Embedded Systems Engineer | Firmware Developer | Robotics Enthusiast</h3>
 
 <p align="center">
