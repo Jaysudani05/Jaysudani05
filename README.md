@@ -54,9 +54,13 @@ I enjoy bridging the gap between high-level logic and low-level hardware. My wor
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Jaysudani05&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Jaysudani05&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysudani05&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaysudani05&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jaysudani05&theme=radical&hide_border=true" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysudani05&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
+</p>
 
 ---
 
